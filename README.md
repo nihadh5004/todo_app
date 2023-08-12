@@ -40,5 +40,5 @@ Click the "Delete" button next to the task you want to delete.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/nihadh5004/todo_app.git
    cd react-todo-app
