@@ -37,7 +37,7 @@ function Form(props) {
          value={props.input}
          required
          onChange={onInputChange} />
-        <button className='button-add' type='submit'>+</button>
+        <button className='button-add' type='submit'>{props.editTodo ? 'Save' : '+'}</button>
     </form>
   )
 }
